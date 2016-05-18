@@ -1,0 +1,49 @@
+{
+    "emojis": [
+        {
+            "apple": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.apple"
+        },
+        {
+            "google": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.google"
+        },
+        {
+            "facebook": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.facebook"
+        },
+        {
+            "htc": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.htc"
+        },
+        {
+            "lg": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.lg"
+        },
+        {
+            "mozilla": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.mozilla"
+        },
+        {
+            "microsoft": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.ms"
+        },
+        {
+            "one": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.one"
+        },
+        {
+            "pedia": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.pedia"
+        },
+        {
+            "slack": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.slack"
+        },
+        {
+            "smasung": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.smasung"
+        },
+        {
+            "snapchat": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.snapchat"
+        },
+        {
+            "twitter": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.twitter"
+        },
+        {
+            "whatsapp": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.apple"
+        },
+        {
+            "yostatus": "https://raw.githubusercontent.com/Solarex/emoji-res/master/emoji.yostatus"
+        }
+    ]
+}
